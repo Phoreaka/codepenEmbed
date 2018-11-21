@@ -1,3 +1,6 @@
 .ui-resizable-s {
     display: none;
 }
+.action-button {
+    display: none;
+}
