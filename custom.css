@@ -8,3 +8,6 @@
 .scaling-choices {
   display: none;
 }
+#rerun-button { 
+   display: none; 
+}
