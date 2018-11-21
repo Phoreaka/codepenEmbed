@@ -2,12 +2,12 @@
     display: none;
 }
 .action-button {
-    display: none;
+    display: none !important;
 }
 
 .scaling-choices {
-  display: none;
+  display: none !important;
 }
 #rerun-button { 
-   display: none; 
+   display: none !important; 
 }
